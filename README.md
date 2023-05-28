@@ -3,7 +3,7 @@
 Control led lights with the phone app
 
 - Led + AM2301 + ESP32
-- 
+
 ![image](https://github.com/KienChiNg/arduino_tutorial/assets/106145545/93c7401e-5301-4819-a2e2-5a5bdd05921d)
 
 -Data obtained
